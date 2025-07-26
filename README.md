@@ -1,2 +1,2 @@
 # stepik_auto_tests_course
-new text
+my project with lessons in stepik
